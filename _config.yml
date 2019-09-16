@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Type Engineer"
   location         : "Seoul, Korea"
-  email            : "nicolas.noh@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nicolas.noh@gmail.com
+      # url: mailto:nicolas.noh@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://fontpublisher.com"
@@ -124,17 +124,20 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/fontpublisher/"
+      # url: "https://facebook.com/fontpublisher/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/fontpublisher/"
+      # url: "https://www.instagram.com/fontpublisher/"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:nicolas.noh@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
