@@ -20,11 +20,9 @@ title                    : "Font Publisher"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nicolas Noh"
-description              : "Talk about font teghnology"
-url                      : "https://fontpub.github.io"
-# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""
-# the subpath of your site, e.g. "/blog"
+description              : "Talk about font technology"
+url                      : "https://fontpub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -37,7 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook: "https://www.facebook.com/fontpublisher/"
+  facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -87,7 +85,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook: "https://www.facebook.com/fontpublisher/"
+facebook:
   username               :
   app_id                 :
   publisher              :
@@ -109,24 +107,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Noh"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Type Engineer"
-  location         : "Seoul, Korea"
-  email            : "nicolas.noh@gmail.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nicolas.noh@gmail.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://fontpublisher.com"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/fontpublisher"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
