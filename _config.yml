@@ -35,7 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook: "https://www.facebook.com/fontpublisher/"
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -85,7 +85,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
+facebook: "https://www.facebook.com/fontpublisher/"
   username               :
   app_id                 :
   publisher              :
@@ -107,24 +107,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nicolas Noh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Type Engineer"
+  location         : "Seoul, Korea"
+  email            : "nicolas.noh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:nicolas.noh@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://fontpublisher.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/fontpublisher"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
