@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Noh"
+  name             : "Font Publisher"
   avatar           : "/assets/images/FP-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Type Engineer"
   location         : "Seoul, Korea"
