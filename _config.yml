@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Font Publisher"
   avatar           : "/assets/images/FP-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Type Engineer"
-  location         : "Seoul, Korea"
+  bio              : "타입 엔지니어"
+  location         : "대한민국, 서울"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:nicolas.noh@gmail.com
-    - label: "Website"
+    - label: "홈페이지"
       icon: "fas fa-fw fa-link"
       url: "http://fontpublisher.com"
     - label: "Twitter"
