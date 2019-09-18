@@ -93,18 +93,18 @@ comments: false
 ### Installer
 
 - **한빛체, 한밭체** (Windows & Macintosh) (2014)
-  - for 대전인쇄문화RIS사업단
+  - 제작사: 대전인쇄문화RIS사업단
 - **한빛고딕, 한빛명조** (Windows & Macintosh) (2015)
-  - for 대전인쇄문화RIS사업단
+  - 제작사: 대전인쇄문화RIS사업단
 - **집더함체** (Windows & Macintosh) (2016)
-  - for [홈플러스](http://www.homeplus.co.kr)
+  - 제작사: [홈플러스](http://www.homeplus.co.kr)
 - **제주삼다수** (Windows & Macintosh) (2018)
-  - for [제주특별자치도개발공사](http://www.jpdc.co.kr)
+  - 제작사: [제주특별자치도개발공사](http://www.jpdc.co.kr)
 - **LIFEPLUS** (Windows & Macintosh) (2019)
-  - for [한화생명](https://www.hanwha.co.kr)
+  - 제작사: [한화생명](https://www.hanwha.co.kr)
 
 ---
 ### Program
 - **폰트 이미지 자동 생성 웹서비스** (2016)
-  - for [국립한글박물관](https://www.hangeul.go.kr)
+  - 개발사: [국립한글박물관](https://www.hangeul.go.kr)
   
